@@ -2,8 +2,8 @@
 
 ## preview
 
-[imgae](/design/desktop-design.jpg)
+![imgae](/design/desktop-design.jpg)
 
 ## active-state
 
-[image-active-state](/design/active-states.jpg)
+![image-active-state](/design/active-states.jpg)
